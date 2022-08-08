@@ -12,7 +12,6 @@ local section = aimbot:Section({Name = "Farm", column = 1})
 -- object:Hide()
 -- object:Show()
   
-
 --values
 _G.autoclick = true
 _G.autorebirth = true
